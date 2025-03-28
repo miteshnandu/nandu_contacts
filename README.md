@@ -15,8 +15,8 @@ This is a simple contact management application written in Python.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/miteshnandu/contact-management-app.git
-   cd contact-management-app
+   git clone https://github.com/miteshnandu/nandu_contacts.git
+   cd nandu_contacts
    ```
 
 2. Install dependencies:
