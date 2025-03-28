@@ -1,4 +1,4 @@
-# Python Contact Management App
+# Nandu Contacts App
 
 This is a simple contact management application written in Python.
 
